@@ -47,4 +47,6 @@ This guide is solely for educational purposes. The information supplied aims to 
 
 
 
-Update:  Friday 18 July 2025 Secure URLs
+
+
+Update:  21.07.2025 URL corrections
