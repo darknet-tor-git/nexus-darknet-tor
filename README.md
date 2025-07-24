@@ -49,4 +49,6 @@ This guide is solely for educational purposes. The information supplied aims to 
 
 
 
-Update:  21.07.2025 URL corrections
+
+
+Update:  07/24/2025
